@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+
+.main-card {
+  margin-left: 400px;
+  width: 50%;
+  padding: 14px;
+}
